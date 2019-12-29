@@ -1,0 +1,66 @@
+table {
+    border: 3px #ec90d8 double;
+    padding: 10px;
+    width: 95%;
+    margin: 2.5%;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+th {
+    border: 3px #000000 double;
+    padding: 5px;
+}
+td {
+    border: 3px #ec90d8 double;
+    padding: 5px;
+    width: 16%;
+}
+tr p {
+    color: cornflowerblue;
+}
+#long {
+    font-size: 0.82em;
+}
+#location {
+    color: rgb(180, 87, 223);
+    font-size: small;
+    margin-right: 8px;
+}
+#time {
+    border-color: mediumaquamarine;
+}
+#time h3 {
+    color: rgb(50, 196, 21);
+    border-style: outset;
+    font-style: oblique;
+    font-family: monospace;
+}
+#time p {
+    font-size: smaller;
+    margin-right: 8px;
+    margin-bottom: 3px;
+    color: rgb(100, 88, 105);
+
+}
+.slash {
+    position: relative;
+    box-sizing: border-box;
+    line-height: 25px;
+    background: linear-gradient(23deg,transparent 49.5%, #ffffff 49.5%,transparent 50.5%,transparent 50.5%);
+}
+.slash01 {
+    color: #08cafa;
+    position: relative;
+    margin-right: 15px;
+}
+.slash02 {
+    color: #08cafa;
+    position: relative;
+    margin-left: 15px;
+}
+#week {
+    border-color:  mediumaquamarine;
+    color: rgba(236, 233, 16, 0.932);
+    font-weight: bold;
+    font-size: 18px;
+}
